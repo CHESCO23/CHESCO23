@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Francisco Ferreira Pimentel Netto.
-- 👀 I’m interested in  aprender sempre mais sobre essa área.
-- 🌱 I’m currently learning  java,Spring,Angular,HTML,CSS,msql,python.
-- 💞️ I’m looking to collaborate on  projetos para adquiri conhecimento.
-- 📫 How to reach me : franciscoferreirapimentelnetto@gmail.com.
-
-<!---
-CHESCO23/CHESCO23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Francisco Ferreira Pimentel Netto, faço o curso de desenvolvimento de sistemas no instituto SENAI de Vitória, tenho 19 anos é atualmente estou aprendendo back-end e banco de dados: mysql.
