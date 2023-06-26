@@ -1,1 +1,1 @@
-Meu nome é Francisco Ferreira Pimentel Netto, faço o curso de desenvolvimento de sistemas no instituto SENAI de Vitória, tenho 19 anos é atualmente estou aprendendo back-end e banco de dados: mysql.
+Meu nome é Francisco Ferreira Pimentel Netto, tenho 19 anos e sou desenvolvedor back-end em php e banco de dados: mysql.
